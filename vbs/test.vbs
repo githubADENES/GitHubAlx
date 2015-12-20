@@ -1,0 +1,1 @@
+wscript.echo "hello world"
